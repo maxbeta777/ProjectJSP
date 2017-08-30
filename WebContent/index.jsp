@@ -8,7 +8,7 @@
 </head>
 <body>
 	<p>
-		<font color ="red">Привет мир!</font>
+		<font color ="red">Hi!</font>
 	</p>
 </body>
 </html>
